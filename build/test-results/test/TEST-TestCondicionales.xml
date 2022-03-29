@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestCondicionales" tests="1" skipped="1" failures="0" errors="0" timestamp="2022-03-29T15:31:48" hostname="DESKTOP-KS501SV" time="0.001">
+  <properties/>
+  <testcase name="Test5$actividad_2()" classname="TestCondicionales" time="0.001">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
